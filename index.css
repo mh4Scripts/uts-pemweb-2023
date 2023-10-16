@@ -60,6 +60,10 @@ main h2 {
     color: black;
 }
 
+.urgent {
+    color: red;
+}
+
 footer {
     text-align: center;
     margin-top: 20px;
